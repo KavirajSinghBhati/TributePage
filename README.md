@@ -48,9 +48,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Team
 
-[![Kaviraj Singh Bhati](https://avatars.githubusercontent.com/u/59439509?v=4)](https://github.com/KavirajSinghBhati) 
+[![Kaviraj Singh Bhati](https://avatars.githubusercontent.com/u/59439509?v=4)](https://github.com/KavirajSinghBhati) |
 ---|---
-[Kaviraj Singh Bhati ](https://github.com/KavirajSinghBhati) 
+[Kaviraj Singh Bhati ](https://github.com/KavirajSinghBhati) |
+
 
 ## [License](https://github.com/KavirajSinghBhati/TributePage/blob/master/LICENSE)
 
